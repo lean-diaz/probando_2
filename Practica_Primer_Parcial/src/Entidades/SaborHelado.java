@@ -1,4 +1,4 @@
-package practica_parcial_1;
+package Entidades;
 
 public enum SaborHelado {
     CHOCOLATE,

@@ -1,4 +1,4 @@
-package practica_parcial_1;
+package Entidades;
 
 import java.util.ArrayList;
 import java.util.Collections;

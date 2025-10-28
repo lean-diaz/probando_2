@@ -1,6 +1,6 @@
-package practica_parcial_1;
+package Entidades;
 
-public class Practica_Parcial_1 {
+public class Practica_Primer_Parcial {
 
     public static void main(String[] args) {
         Heladeria miHeladeria = new Heladeria(5);
@@ -39,7 +39,6 @@ public class Practica_Parcial_1 {
         // Mostrar heladería completa
         System.out.println("\n Información de la Heladería:\n");
         System.out.println(miHeladeria);
-
     }
-
+    
 }

@@ -1,9 +1,9 @@
-package practica_parcial_1;
+package Entidades;
 
 import java.util.Objects;
 import java.util.Random;
 
-public abstract class ProductoHeladeria implements Comparable<ProductoHeladeria>{
+public class ProductoHeladeria implements Comparable<ProductoHeladeria> {
     // Atributos protegidos
     protected Fabricante fabricante;
     protected String nombre;

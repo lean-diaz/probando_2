@@ -1,4 +1,4 @@
-package practica_parcial_1;
+package Entidades;
 
 public class Postre extends ProductoHeladeria implements IVendible{
     // Atributo privado
@@ -61,5 +61,4 @@ public class Postre extends ProductoHeladeria implements IVendible{
         Postre otroPostre = (Postre) obj;
         return this.tipoPostre == otroPostre.tipoPostre;
     }
-    
 }
